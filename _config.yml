@@ -1,7 +1,7 @@
 title: the geisten project
 author: Dr. Germar Schlegel
 email: g.schlegel@geisten.com
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 description: > # this means to ignore newlines until "baseurl:"
   Build your own intelligent systems that are minimally designed to run in tiny environments.
 # social links
