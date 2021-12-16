@@ -20,7 +20,7 @@ Non-binary input values must be converted first. If the input values are not ava
 
 $$ a(x) = \begin{cases}  +1 &  x \ge \alpha \\ -1 & x < \alpha \end{cases} $$
 
-![forward process](forward_process.drawio.svg)
+![forward process](/img/forward_process.drawio.svg)
 
 $$ \mathcal{z} = \mathcal{\tilde{A}} * \mathcal{\tilde{W}} $$
 
