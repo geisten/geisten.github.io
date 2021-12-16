@@ -6,6 +6,9 @@ date: 2021-12-10
 
 ---
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 The geisten project is a minimalistic library written in the C programming language. Our goal is to implement neural networks as efficiently as possible with as little resource consumption as necessary.
 
 The basic idea of this resource-efficient neural network is based on the principles of a binary network. The compressed 1-bit neural network allows running complex models on resource-limited devices.
