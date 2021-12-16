@@ -1,17 +1,12 @@
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-The target of the geisten project is to build intelligent systems that are minimally designed to run in tiny environments.
-
-The geist project is a minimalistic library written in the C programming language. Our goal is to implement neural networks as efficiently as possible with as little resource consumption as necessary.
-
-## Documentation of algorithm
-
 ![geisten lib logo](neuron.png)
 
-The basic idea of this resource-efficient neural network is based on the principles of a binary network. The compressed 1-bit neural network allows running complex models on resource-limited devices.
-But, the strong degradation of the accuracy makes it unusable for productive systems. The algorithm achieved nearly the accuracy of real-valued networks without extra computational cost.
+How small might artificially intelligent applications become? Is it possible to run these systems decentrally without connecting permanently via a data-hungry server? How much is it possible to run these applications on very little energy? 
+These are the questions that the geisten project is addressing. We develop solutions based on Deep Learning models with the help of the TensorFlow framework and our geisten library. We create applications that can run independently (sometimes for months), do not rely on resource-hungry operating systems, and still accomplish complex tasks. Possible applications are, e.g., the detection of weeds in agricultural areas, the detection of forest fires, or animals in wildlife parks.
 
-$$ z = A * W $$
+Summarized in one sentence: 
 
-[ReActNet: Towards Precise Binary Neural Network with Generalized Activation Functions](https://arxiv.org/pdf/2003.03488.pdf)
+> We build intelligent systems that are minimally designed to run in tiny environments.
+
