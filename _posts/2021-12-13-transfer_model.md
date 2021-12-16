@@ -1,9 +1,8 @@
 ---
 
-title: "The geisten basic math"
+title: "Transfer the TensorFlow model to geisten"
 
 date: 2021-12-10
 
 ---
 
-# Hello geisten world
