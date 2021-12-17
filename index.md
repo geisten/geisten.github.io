@@ -1,3 +1,8 @@
+---
+title: Welcome
+layout: default
+---
+
 ![geisten lib logo](neuron.png)
 
 How small might artificially intelligent applications become? Is it possible to run these systems decentrally without connecting permanently via a data-hungry server? How much is it possible to run these applications on very little energy? 
