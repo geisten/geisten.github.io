@@ -22,16 +22,12 @@ Non-binary input values must be converted first. If the input values are not ava
 
 $$ a(x) = \begin{cases}  +1 &  x \ge \alpha \\ -1 & x < \alpha \end{cases} $$
 
-![forward process](assets/images/forward_process.drawio.svg)
+![forward process]({{ site.url }}{{ site.baseurl }}/assets/images/forward_process.drawio.svg)
 
 $$ \mathcal{z} = \mathcal{\tilde{A}} * \mathcal{\tilde{W}} $$
 
-With the binary input vector
-
-$$\mathcal{\tilde{A}} \in {0, 1}$$
-
-and weights matrix at output channel _i_: \\(\mathcal{\tilde{W_i}} \in {-1, 1}\\). The vector `$\mathcal{\tilde{A}}$` and matrix `$\mathcal{\tilde{W}}$` are multiplied via bit wise logic and popcount operations to get the integer result `$\mathcal{z}$`.  After the binary activation step, the integer results `$\mathcal{z}$` become real values within a certain range to generate a binary output feature map for the next layer.
-In each bit, the result of basic multiplication `$a \times w_i$` is one of three values {−1, 0, 1}. If we let binary "0" stand for the value −1 in b, the truth table of binary multiplication is then shown in the following table.
+With the binary input vector \\(\mathcal{\tilde{A}} \in {0, 1}\\) and weights matrix at output channel _i_: \\(\mathcal{\tilde{W_i}} \in {-1, 1}\\). The vector \\(\mathcal{\tilde{A}}\\) and matrix \\(\mathcal{\tilde{W}}\\) are multiplied via bit wise logic and popcount operations to get the integer result \\(\mathcal{z}\\).  After the binary activation step, the integer results \\(\mathcal{z}\\) become real values within a certain range to generate a binary output feature map for the next layer.
+In each bit, the result of basic multiplication \\(a \times w_i$` is one of three values {−1, 0, 1}. If we let binary "0" stand for the value −1 in b, the truth table of binary multiplication is then shown in the following table.
 
 | a        | w          | pos (+1)  | neg (-1) |
 | ------------- |:-------------:| :-----:|:-----:|
