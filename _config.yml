@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Germar Schlegel"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/neuron.png"
+  bio    : "Build intelligent systems that are minimally designed to run in tiny environments."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -105,9 +105,3 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
