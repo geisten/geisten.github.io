@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Germar Schlegel"
+  name   : "geisten"
   avatar : "/assets/images/neuron.png"
   bio    : "Build intelligent systems that are minimally designed to run in tiny environments."
   links:
@@ -97,6 +97,7 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax: true
   # _pages
   - scope:
       path: "_pages"
