@@ -1,9 +1,11 @@
 ---
-
 title: "The geisten basic math"
-
-date: 2021-12-10
-
+date: 2021-12-10T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - basics
+  - theory
 ---
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
