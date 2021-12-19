@@ -1,6 +1,10 @@
 ---
 title: Welcome
-layout: default
+layout: splash
+header:
+  image: /assets/images/neuron.png
+  overlay_filter: rgba(255, 0, 0, 0.5)
+  image_description: "some neurons"
 ---
 
 ![geisten lib logo](assets/images/neuron.png)
