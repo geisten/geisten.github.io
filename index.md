@@ -5,6 +5,8 @@ header:
   image: /assets/images/neuron.png
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
   image_description: "some neurons"
+  - label: "More Info"
+      url: "https://github.com/geisten"
 ---
 
 How small might artificially intelligent applications become? Is it possible to run these systems decentrally without connecting permanently via a data-hungry server? How much is it possible to run these applications on very little energy? 
