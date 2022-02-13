@@ -1,0 +1,1 @@
+{"rule":"SPEND","sentence":"^\\QHowever, I have never spent much time on the build mechanisms, which often meant that even simple mistakes cost me a lot of time to fix.\\E$"}
