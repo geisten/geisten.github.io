@@ -12,7 +12,7 @@ published: false
 Lokale Ojekterkennung mittels KI ohne Internetverbindung
 
 
-Die Erkennung eines Objektes mittels KI (Künstlicher Intelligenz), läuft fast immer wie folgt ab. Ein Objekt – bspw. ein Gesicht wird aufgenommen – das Bild wird an einen leistungsstarken Rechner übertragen und identifiziert. 
+Die Erkennung eines Objektes mittels KI (Künstlicher Intelligenz), läuft fast immer wie folgt ab. Ein Objekt – bspw. ein Gesicht - wird aufgenommen, das Bild wird an einen leistungsstarken Rechner übertragen und identifiziert. 
 
 Wir fragen uns, muss das so sein? Und vor allem, ist es immer richtig ein Bild über das Internet zu übertragen und an einem anderen Ort die Erkennung durchzuführen.
 
