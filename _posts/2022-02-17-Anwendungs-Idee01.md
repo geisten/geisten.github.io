@@ -9,7 +9,7 @@ tags:
 published: false
 ---
 
-lokale Ojekterkennung mittels KI ohne Internetverbindung
+Lokale Ojekterkennung mittels KI ohne Internetverbindung
 
 
 Die Erkennung eines Objektes mittels KI (Künstlicher Intelligenz), läuft fast immer wie folgt ab. Ein Objekt – bspw. ein Gesicht wird aufgenommen – das Bild wird an einen leistungsstarken Rechner übertragen und identifiziert. 
