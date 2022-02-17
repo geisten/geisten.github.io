@@ -1,5 +1,5 @@
 ---
-title: "Anwendungsidee"
+title: "Lokale Ojekterkennung mittels KI ohne Internetverbindung"
 date: 2022-02-17T20:59:00.000Z
 lang: de
 categories:
