@@ -9,6 +9,8 @@ tags:
 published: false
 ---
 
+Realisierung: [Phase 2](../phase-2/)
+
 Unsere KI-Anwendungen haben minimale Anforderungen an die Hardware. Wir können eine Gesichtserkennung auf einem Microprozessor für unter 0,50 € durchführen. 
 
 Es ist ein leichtes hochzurechnen, wie viel Hardware und Energie sich einsparen lässt, wenn bestehende KI-Anwendungen durch unsere abgelöst werden. 

@@ -11,6 +11,8 @@ published: false
 
 Lokale Objekterkennung mittels KI ohne Internetverbindung
 
+Realisierung: [Phase 1](../phase-1/), [Phase 2](../phase-2/)
+
 
 Die Erkennung eines Objektes mittels KI (Künstliche-Intelligenz), läuft fast immer wie folgt ab. Ein Objekt – bspw. ein Gesicht - wird aufgenommen, das Bild wird an einen leistungsstarken Rechner übertragen und identifiziert. 
 
