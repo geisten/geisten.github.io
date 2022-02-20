@@ -1,12 +1,12 @@
 ---
 title: "Export a binary neural network to C"
 date: 2022-02-13T09:47:00.000Z
-lang: de-DE
 categories:
   - blog
 tags:
   - geisten  - tinyML
   - c
+published: false
 ---
 
 After successfully training a binary neural network, we will install the generated model on the actual target platform. To run the code on as many different systems as possible, we need to convert the model into a format that is as platform-independent as possible but still efficient. The best solution for this for more than 50 years is the programming language C. It combines the desired properties such as portability and efficiency with the ability to address hardware directly while having low requirements for a runtime environment. This makes C practically unique and is also referred to as the lingua franca of programming languages. Code generation from a trained binary neural network is trivial:
