@@ -1,16 +1,18 @@
-title	date	lang	categories	tags	published
-Bekanntheitsgrad steigern
-2022-02-21 18:35:00 UTC
-de
-blog
-erstes Projekt
-false
+---
+title: Bekanntheitsgrad steigern
+date: 2022-02-21 18:35:00 UTC
+lang: de
+categories: blog
+tags: erstes Projekt
+published: false
+---
+
 Realisierung: Phase 1, Phase 2
 
 Erstellung eines Videos über:
 •	Die Idee 
 •	Das Produkt
-Bacel Atassi könnte hierauf angesprochen werden. Kameramann beim WDR und Cutter. Er erstellt unteranderem auch für Firmen Image-Videos.
+Bacel Atassi könnte hierauf angesprochen werden. Kameramann beim WDR und Cutter. Er erstellt unter anderem auch für Firmen Image-Videos.
 Das Video sollte folgenden Zwecken dienen:
 •	Auf uns aufmerksam machen / Steigerung des Bekanntheitsgrades.
 •	Sponsoren / Investoren anlocken.
